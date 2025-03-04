@@ -8,7 +8,7 @@ This shape is studied in **computational geometry, implicit surfaces, and mathem
 ---
 
 ### **Understanding the Tanglecube Equation**
-The equation used in your code is:
+The equation used in this code is:
 
 ![Image](https://github.com/user-attachments/assets/1189ec16-32fd-459f-a418-9cb2acda8ee2)
 
